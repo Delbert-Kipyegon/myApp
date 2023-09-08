@@ -1,0 +1,12 @@
+Today, 7th September, i will start a simple project. I am going to create a simple Signin/Signup application. I have Chosen to go with Vite + React for Frontend and NodeJS for Backend. I will use Firebase which has an easy Authentication Integration and also Firestore for the DB. With that, lets get cooking. 
+
+Day 1: Setting up the GUI
+So far, I have made the Login and Signup pages without any problems in the GUI setup. I have also made simple functional Home Component that renders a dummy text and a NotFound page. I am currently trying to setup the routers, giving me difficulties. 
+Done with Routes. I have implemented the login/register redirection buttons on the respective components. I have also added a'forgot password' on the login page.
+
+Next
+picking the email and password from the forms
+setting up firebase auth 
+enabling protected routes - dashboard, account etc.
+
+
